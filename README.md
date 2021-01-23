@@ -1,7 +1,7 @@
 # Coderbyte
 Codebyte | Node.js | Backend Developer Assessment 
 
-##Simple password
+#Simple password
 
 ```
 function doesContainCapitalLetter(str) {
@@ -42,7 +42,7 @@ function SimplePassword(str) {
 console.log(SimplePassword(readline()));
 ```
 
-##star rating
+#Star rating
 
 ```
 unction StarRating(str) {
@@ -89,7 +89,7 @@ console.log(StarRating(readline()));
 
 ```
 
-##node.js Print files
+#Node.js Print files
 
 ```
 const fs = require('fs');
@@ -138,7 +138,7 @@ exec('ls', (error, stdout, stderr) => {
 ```
 
 
-##Node.js Age Counting
+#Node.js Age Counting
 
 ```
 const https = require('https');
