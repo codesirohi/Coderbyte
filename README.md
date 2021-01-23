@@ -1,7 +1,7 @@
 # Coderbyte
 Codebyte | Node.js | Backend Developer Assessment 
 
-
+```
 function doesContainCapitalLetter(str) {
   return str.split('').some(char => (char === char.toUpperCase()));
 }
@@ -38,3 +38,4 @@ function SimplePassword(str) {
   return isValid;
 }
 console.log(SimplePassword(readline()));
+```
